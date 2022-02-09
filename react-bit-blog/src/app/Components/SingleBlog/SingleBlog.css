@@ -1,0 +1,10 @@
+.horizontalLine {
+    border-bottom: 1px solid black;
+}
+
+.backLink {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5em;
+}

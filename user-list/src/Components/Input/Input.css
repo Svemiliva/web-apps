@@ -1,0 +1,16 @@
+#searchInput {
+    width: 20%;
+    margin: 0 auto;
+    margin: 10px;
+    background-color: gainsboro;
+    margin-left: 40%;
+    color: black;
+}
+
+#searchInput::placeholder {
+    color: blue;
+}
+
+#searchInput:focus {
+    border: none;
+}

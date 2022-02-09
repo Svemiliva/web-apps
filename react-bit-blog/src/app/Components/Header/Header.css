@@ -1,0 +1,14 @@
+.links {
+    text-align: right;
+}
+
+.links a {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+
+.bitBlog {
+    text-decoration: none;
+}

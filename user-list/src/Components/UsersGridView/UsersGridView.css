@@ -1,0 +1,40 @@
+.userWrapperGrid { 
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
+}
+
+.gridView {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.gridView img {
+    width: 100%;
+    border-radius: 0;
+}
+
+.gridView .infoGrid {
+    z-index: 2;
+    margin-top: -50px;
+    margin-left: 10px;
+}
+
+.userNameGrid {
+    color: white;
+    font-weight: bold;
+    margin-top: -30px;
+    padding: 5px;
+}
+
+.userEmailGrid {
+    margin: 0;
+    padding: 0;
+}
+
+.userDobGrid {
+    margin: 0;
+    padding: 0;
+}

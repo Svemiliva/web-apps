@@ -1,0 +1,9 @@
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+    border-color: lightcoral;
+    color: white;
+    margin-bottom: 3px;
+}

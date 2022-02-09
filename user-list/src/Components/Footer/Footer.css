@@ -1,0 +1,10 @@
+footer {
+    background-color: tomato;
+    color: white;
+    padding-left: 50px;
+}
+
+p {
+    padding: 10px;
+    padding-top: 20px;
+}

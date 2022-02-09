@@ -1,0 +1,9 @@
+.info p {
+    margin: 0;
+    padding-top: 0;
+}
+
+.info {
+    margin-left: 10px;
+    padding-bottom: 20px;
+}

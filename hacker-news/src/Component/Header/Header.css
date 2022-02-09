@@ -1,0 +1,17 @@
+header {
+    background-color: tomato;
+    color: white;
+    padding: 1px;
+    text-align: left;
+}
+
+h3 {
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: 2em;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+}

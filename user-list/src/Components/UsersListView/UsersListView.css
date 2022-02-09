@@ -1,0 +1,32 @@
+.userWrapperList {
+    margin: 0 auto;
+    display: block;
+}
+
+.listView {
+    height: 100px;
+    display: flex;
+    width: 80%;
+    margin: 10px;
+    margin-left: 30px;
+    border: 1px solid rgb(243, 239, 239);
+    margin: 0 auto;
+}
+
+.listView img {
+    height: 50px;
+    margin: 5px;
+}
+
+.infoList {
+    margin-left: 10px;
+}
+
+.infoList p {
+    margin: 0;
+    padding: 0;
+}
+
+.userName {
+    color: black;
+}

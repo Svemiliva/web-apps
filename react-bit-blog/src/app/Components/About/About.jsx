@@ -1,0 +1,14 @@
+import './About.css';
+
+export const About = () => {
+    return (
+        <>
+            <h5 className="text-center fs-1 fw-bolder mt-5">ABOUT</h5>
+            <p className="ms-5 me-5">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto assumenda sint fugiat earum odio possimus voluptas quo velit, porro unde itaque enim exercitationem labore, perspiciatis molestiae architecto voluptatem nobis. Quae commodi suscipit corrupti possimus ducimus esse, dolorem quas quod aliquam veritatis similique doloribus labore animi. Sit, omnis! Ab veritatis praesentium sequi officia impedit dignissimos ratione magni rerum, similique saepe provident harum quos, incidunt doloremque nulla quis amet dolores, ducimus nam quia itaque ad temporibus iure. Autem aut blanditiis, voluptates ad ullam repellat tempore pariatur recusandae quae molestias earum nesciunt sunt quas dolore ea quaerat accusantium aliquam quisquam, molestiae praesentium, optio consequatur! Nam, rerum a! Vel, illo soluta sunt, similique dolorem recusandae quisquam animi modi iste eius a veritatis rerum possimus ut molestias impedit sed, minus sit pariatur tempore provident sapiente. Exercitationem deleniti nihil facere! Aspernatur cum tempora est obcaecati odio natus expedita rem necessitatibus perferendis mollitia. In, quaerat! Commodi neque minima delectus aperiam rem harum voluptatum at nostrum atque tenetur. Neque perferendis, quos temporibus doloremque fuga earum minus in sapiente iure aliquid quis numquam amet odio debitis atque eius dolore dignissimos? Provident voluptates esse quis distinctio tempore, nostrum vero est rerum molestiae vitae, animi quidem eveniet cupiditate tenetur? In, obcaecati.
+            </p>
+            <h5 className="text-center fs-1 fw-bolder pt-5">OUR STORY</h5>
+            <p className="ms-5 me-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo quas quibusdam esse voluptas harum odit necessitatibus dignissimos qui suscipit! Pariatur, voluptatem voluptatibus adipisci iure dolore molestiae eligendi enim saepe aspernatur, nihil suscipit natus architecto iste facere accusantium amet sed doloremque ipsa sint ratione quibusdam nemo. Voluptatum unde perspiciatis fuga adipisci accusamus obcaecati! Architecto dolor eum dolorem! Quidem minima consectetur soluta vero odit quod quasi repellendus natus commodi, modi sint beatae nihil corporis aspernatur tenetur dicta doloribus sunt, expedita earum facilis maiores nobis minus! Provident tenetur numquam laboriosam dignissimos unde explicabo, amet, facilis perferendis vero totam, temporibus architecto adipisci minima voluptatibus.</p>
+        </>
+    )
+}
